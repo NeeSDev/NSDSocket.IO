@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NSDSocket.IO"
+  s.name         = "NSDSocketIO"
   s.version      = "0.9.0"
   s.summary      = "Socket.IO v0.9及其以下"
 
@@ -92,14 +92,14 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.public_header_files  = "NSDSocket.IO.h"
-  s.source_files  = "NSDSocket.IO.h"
+  s.public_header_files  = "NSDSocketIO.h"
+  s.source_files  = "NSDSocketIO.h"
 
 
 
-  s.subspec 'Socket.IO' do |sss|
-    sss.source_files = 'Socket.IO/*.{h,m}'
-    sss.public_header_files = 'Socket.IO/*.h'
+  s.subspec 'SocketIO' do |sss|
+    sss.source_files = 'SocketIO/*.{h,m}'
+    sss.public_header_files = 'SocketIO/*.h'
   end
 
   #s.exclude_files = "Classes/Exclude"
