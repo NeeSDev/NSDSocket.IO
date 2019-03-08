@@ -9,10 +9,6 @@
 #ifndef NSDExtendTool_h
 #define NSDExtendTool_h
 
-#import "NSDUIKitCategory.h"
-#import "NSDDataExtend.h"
-#import "NSDProjectBase.h"
-#import "NSDUIKitSubclass.h"
-#import "NSDCustomView.h"
+#import "SocketIO.h"
 
 #endif /* NeeSUIKitCategory_h */
