@@ -1,13 +1,13 @@
 //
-//  NSDExtendTool.h
-//  NSDExtendTool
+//  NSDSocket.IO.h
+//  NSDSocket.IO
 //
 //  Created by NeeSDev on 2019/1/15.
 //  Copyright © 2019 apple. All rights reserved.
 //
 
-#ifndef NSDExtendTool_h
-#define NSDExtendTool_h
+#ifndef NSDSocket.IO_h
+#define NSDSocket.IO_h
 
 #import "SocketIO.h"
 
