@@ -121,12 +121,5 @@ NSLog(@"didReceiveEvent >>> data: %@", packet.data);
 } 
 ```
 
-``` objective-c
-// replace
-#import SRWebSocket.h
-
-// with
-#import <SocketRocket/SRWebSocket.h>
-```
 ## 版本历史
 具体请查看 **[CHANGELOG.md](CHANGELOG.md)**
